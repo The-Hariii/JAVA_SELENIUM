@@ -48,12 +48,6 @@
 </dependency>
 
 
-
-   	<dependency>
-   		<groupId>gg</groupId>
-   		<artifactId>ms</artifactId>
-   		<version>0.0.1-SNAPSHOT</version>
-   	</dependency>
    </dependencies><build>
     <plugins>
         <!-- Compiler plugin -->
@@ -80,4 +74,5 @@
         </plugin>
     </plugins>
 </build>
+
 </project>
